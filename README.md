@@ -5,8 +5,10 @@
 **How to set my config**
 
 * Install the required fonts
+***
 [JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
 [Font Awesome](https://fontawesome.com/)
+***
 
 * Move the files
 ```
