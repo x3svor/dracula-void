@@ -6,7 +6,7 @@
 
 * Install the required fonts
 ***
-[JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/)
+[JetBrains Mono](https://www.jetbrains.com/ru-ru/lp/mono/) and 
 [Font Awesome](https://fontawesome.com/)
 ***
 
