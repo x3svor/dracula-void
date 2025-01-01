@@ -9,7 +9,9 @@
 [Font Awesome](https://fontawesome.com/)
 
 * Move the files
-```git clone https://github.com/x3svor/dracula-void
+```
+git clone https://github.com/x3svor/dracula-void
+---
 cd dracula-void && cd dotfiles && mv -f * $HOME/.config/
 ```
 * Restart i3
